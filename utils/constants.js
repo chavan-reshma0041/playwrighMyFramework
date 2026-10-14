@@ -1,6 +1,7 @@
 const ROUTES={
     LOGIN_PAGE:"https://www.saucedemo.com/",
-    PRODUCTS_PAGE:"https://www.saucedemo.com/inventory.html"
+    PRODUCTS_PAGE:"https://www.saucedemo.com/inventory.html",
+    CART_PAGE:"https://www.saucedemo.com/cart.html"
    }
 
    const TITLES={
